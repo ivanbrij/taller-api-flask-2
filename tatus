@@ -1,0 +1,120 @@
+[33mcommit c68d05857eb23fd1de5e80f424c7f77cc85fef6f[m[33m ([m[1;36mHEAD -> [m[1;32mtest[m[33m, [m[1;31morigin/solution[m[33m, [m[1;32msolution[m[33m)[m
+Author: Jorge Barrera <ji.barrerar1@uniandes.edu.co>
+Date:   Mon Nov 8 20:29:14 2021 -0600
+
+    Solucion para produccion
+
+[33mcommit 7ac0015d551e99d0ec40d97083bf067b07e79b23[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Jesse Padilla <jpadillaa@users.noreply.github.com>
+Date:   Thu Nov 12 16:10:14 2020 -0500
+
+    Update README.md
+
+[33mcommit 487a9b1fcad0b2c4bb00f4012bd4e1dfcc5b2101[m
+Author: Jesse Padilla <jpadillaa@users.noreply.github.com>
+Date:   Thu Nov 12 16:03:54 2020 -0500
+
+    Update README.md
+
+[33mcommit 3e877b2ec0f65230ee6c41dfe3643cb4d5d067e3[m
+Author: Jesse Padilla <jpadillaa@users.noreply.github.com>
+Date:   Thu Nov 12 15:53:48 2020 -0500
+
+    Update README.md
+
+[33mcommit 387702cf9db28d36d60899b20c846c432043f3b7[m
+Author: jpadillaa <jpadillaa@gmail.com>
+Date:   Wed Nov 11 18:14:32 2020 -0500
+
+    Correcciones de estilo
+
+[33mcommit 510010fa4b872a5e7a969bd33f84b9af835677bf[m
+Author: Jesse Padilla <jpadillaa@users.noreply.github.com>
+Date:   Wed Nov 11 18:11:59 2020 -0500
+
+    Update README.md
+
+[33mcommit cf38e97d02022ed7770b7d84f53689004170c634[m
+Author: Jesse Padilla <jpadillaa@users.noreply.github.com>
+Date:   Wed Nov 11 18:10:27 2020 -0500
+
+    Update README.md
+
+[33mcommit 470651dcf398e08085e2b381b815ebd13481ecea[m
+Author: jpadillaa <jpadillaa@gmail.com>
+Date:   Wed Nov 11 17:51:59 2020 -0500
+
+    Commit #3 - Se ajustan los ejemplos.
+
+[33mcommit 2d09a4ff46de0ea9dc8b428f34e1f480cae30321[m
+Merge: c721608 bab1a1d
+Author: jpadillaa <jpadillaa@gmail.com>
+Date:   Wed Nov 11 17:49:36 2020 -0500
+
+    Merge branch 'main' of https://github.com/jpadillaa/taller-api-flask-2 into main
+
+[33mcommit c72160826af3e5d56bd794a978a60d437304893a[m
+Author: jpadillaa <jpadillaa@gmail.com>
+Date:   Wed Nov 11 17:48:19 2020 -0500
+
+    Commit #2 - Se anexan ejemplos.
+
+[33mcommit bab1a1dfb650bb0362f9447f432b64420ccbb708[m
+Author: Jesse Padilla <jpadillaa@users.noreply.github.com>
+Date:   Wed Nov 11 17:42:30 2020 -0500
+
+    Update README.md
+
+[33mcommit 6d09e95fdf5d76e947b74eea15740b3a244bd341[m
+Author: Jesse Padilla <jpadillaa@users.noreply.github.com>
+Date:   Wed Nov 11 17:20:11 2020 -0500
+
+    Update README.md
+
+[33mcommit 40d6500d56e48c25ede99967e1d289f971d617b0[m
+Author: Jesse Padilla <jpadillaa@users.noreply.github.com>
+Date:   Wed Nov 11 17:19:31 2020 -0500
+
+    Update README.md
+
+[33mcommit 86ffbf967cdda593455bd537644524708733784b[m
+Author: Jesse Padilla <jpadillaa@users.noreply.github.com>
+Date:   Wed Nov 11 17:17:13 2020 -0500
+
+    Update README.md
+
+[33mcommit b627d49447904ef02c62ed1b85086b07a3ba3d52[m
+Author: Jesse Padilla <jpadillaa@users.noreply.github.com>
+Date:   Wed Nov 11 17:11:22 2020 -0500
+
+    Update README.md
+
+[33mcommit 8cc60ecb527b01a44e13bf84fee4eb92f761410f[m
+Author: Jesse Padilla <jpadillaa@users.noreply.github.com>
+Date:   Wed Nov 11 17:08:20 2020 -0500
+
+    Update README.md
+
+[33mcommit 23d87dc0afddf41c7fec0f166aee190418e5e062[m
+Author: Jesse Padilla <jpadillaa@users.noreply.github.com>
+Date:   Wed Nov 11 17:07:33 2020 -0500
+
+    Update README.md
+
+[33mcommit 9530ff3920094122e77ce870514320a464f1a21e[m
+Author: jpadillaa <jpadillaa@gmail.com>
+Date:   Wed Nov 11 17:02:13 2020 -0500
+
+    Commit #1 - Commit inicial
+
+[33mcommit a3085f1c1394519ecf106d48f17678fd23b81d93[m
+Author: Jesse Padilla <jpadillaa@users.noreply.github.com>
+Date:   Wed Nov 11 16:57:49 2020 -0500
+
+    Update README.md
+
+[33mcommit 74004334d2c035512f2058b559a21d897ca5b5d9[m
+Author: Jesse Padilla <jpadillaa@users.noreply.github.com>
+Date:   Wed Nov 11 16:57:06 2020 -0500
+
+    Initial commit
